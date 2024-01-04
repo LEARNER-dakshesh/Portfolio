@@ -1,0 +1,18 @@
+[
+    {
+        "role":"SDE Intern",
+        "organization":"Desi Qna",
+        "startdate":"May,2023",
+        "endDate":"July,2023",
+        "experiences":["Worked on User Authentication Part for the purpose of removing fake bots","Integrated Recaptcha with the website Google Layer of Protection for websites"],
+        "imgsrc":"skills/desiqna.png"
+    },
+    {
+        "role":"Technical Content Writer",
+        "organization":"GeeksForGeeks",
+        "startdate":"March 2023",
+        "endDate":"Present",
+        "experiences":["Wrote 10+ Articles on differnet Domains such as Computer Networks, Computer Science, DSA, Flutter and many more","Helped more than 50K+ geeks through my articles"],
+        "imgsrc":"skills/gfg.png"
+    }
+]

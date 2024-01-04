@@ -1,0 +1,43 @@
+[
+ {
+    "title":"C",
+    "imagSrc":"skills/C.png"
+ },  
+ {
+    "title":"Dart",
+    "imagSrc":"skills/dart.png"
+ }, 
+ {
+    "title":"C++",
+    "imagSrc":"skills/c++.png"
+ }, 
+ {
+    "title":"HTML",
+    "imagSrc":"skills/html.png"
+ }, 
+ {
+    "title":"Flutter",
+    "imagSrc":"skills/flutter.png"
+ }, 
+ {
+    "title":"React",
+    "imagSrc":"skills/react.png"
+ }, 
+ {
+    "title":"JavaScript",
+    "imagSrc":"skills/javascript.png"
+ }, 
+ {
+    "title":"MongoDb",
+    "imagSrc":"skills/mongodb.png"
+ }, 
+ {
+    "title":"NodeJs",
+    "imagSrc":"skills/nodejs.png"
+ }, 
+ {
+    "title":"ExpressJS",
+    "imagSrc":"skills/express.png"
+ }
+
+]
