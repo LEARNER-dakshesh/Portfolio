@@ -9,7 +9,6 @@ const Hero = () => {
         <h1 className={styles.title}>Hii, I'm a Dakshesh </h1>
         <p className={styles.description}>
           I'm a tech enthusiast with interest in Web and Android Technologies.
-          Reach out if you'd like to learn more!
         </p>
         <a href="mailto:daksheshgupta4@gmail.com" className={styles.contactBtn}>
           Contact Me

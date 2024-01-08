@@ -1,0 +1,23 @@
+[
+   { "title" : "Driver Hiring App",
+     "imageSrc" : "projects/driver.jpg",
+     "description": "App for hiring drivers for long ditance journey",
+     "skills" : ["Flutter","Firebase","Dart"],
+     "source" : "https://www/github.com"
+
+},
+{ 
+    "title" : "Lung Cancer Prediction",
+     "imageSrc" : "skills/ML_model.jpg",
+     "description": "ML model to predict the lung cancer",
+     "skills" : ["Machine Learning","Orange ","Tableau "],
+     "source" : "https://www/github.com"
+},
+{ "title" : "Weather App",
+"imageSrc" : "projects/Weather.jpg",
+"description": "App which tells the weather of particular lattitude and longitude",
+"skills" : ["Flutter","Postman","Api Handling" ],
+"source" : "https://www/github.com"
+}
+
+]

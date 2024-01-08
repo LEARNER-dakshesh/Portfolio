@@ -17,7 +17,7 @@
  }, 
  {
     "title":"Flutter",
-    "imagSrc":"skills/flutter.png"
+    "imagSrc":"skills/nodejs.png"
  }, 
  {
     "title":"React",
@@ -30,14 +30,26 @@
  {
     "title":"MongoDb",
     "imagSrc":"skills/mongodb.png"
- }, 
+ },
  {
-    "title":"NodeJs",
-    "imagSrc":"skills/nodejs.png"
- }, 
+   "title":"Firebase",
+   "imagSrc":"skills/firebase.png"
+},  
+{
+   "title":"TailwindCss",
+   "imagSrc":"skills/tailwind.png"
+},
  {
     "title":"ExpressJS",
     "imagSrc":"skills/express.png"
+ },
+{
+    "title":"NodeJs",
+    "imagSrc":"skills/flutter.png"
+ },
+ {
+   "title":"Css",
+   "imagSrc": "skills/css.png"
+ 
  }
-
 ]
