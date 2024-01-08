@@ -14,7 +14,7 @@ const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursor.png")} alt="cursor-icon" />
+            <img src={getImageUrl("about/cursor.png")} alt="cursor-icon" className={styles.abtImg} />
             <div className={styles.aboutItemText}>
               <h3>Fronted Developer</h3>
               <p>
